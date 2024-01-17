@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "school_attendance",
-    "slug": "school_attendance"
+    "slug": "school_attendance",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "128993b3-5614-4dba-ba40-0cb4864ffa86"
+      }
+    },
+    "android": {
+      "package": "com.stranger789123.school_attendance"
+    }
   }
 }
